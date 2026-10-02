@@ -180,6 +180,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "freedraw-pdf:Toggle annotation mode on active PDF": false,
+      "freedraw-pdf:Create blank annotatable PDF": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
