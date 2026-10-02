@@ -1,5 +1,15 @@
-This is your new *vault*.
+Here is to place and organise our notes and documentation.
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+Files are in markdown.
 
-When you are ready, delete this note and make the vault your own.
+All commands are available with ctrl+p, and standard text formatting instructions work.
+
+Headers are with hash
+# Header 1
+## Header 2
+### And so on
+
+--- 
+
+Make a note of something, [[create a link]].
+
