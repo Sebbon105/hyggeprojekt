@@ -1,0 +1,14 @@
+{
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ]
+}
