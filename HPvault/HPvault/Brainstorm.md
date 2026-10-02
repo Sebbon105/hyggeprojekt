@@ -1,0 +1,20 @@
+# Punkter
+- Engine
+- Dokumentation -> .md
+- Spil
+	- 2D
+		- placeholder/2d sprites
+		- Top-down/orthographic
+		- Tactic/strategy/city-builder
+		- Resource management
+- API
+	- Vejr -> Terræn -> Andre?
+		- Dynamic resources/map
+		- Flood Map
+- Kodningssprog
+	- C# -> research?
+	- C++
+- Deadline
+	- 4. semester
+- web/.exe
+- Git/github

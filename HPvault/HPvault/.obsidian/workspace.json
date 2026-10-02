@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Brainstorm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Brainstorm"
             }
           }
         ],
@@ -188,11 +188,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "freedraw-pdf:Toggle annotation mode on active PDF": false,
+      "freedraw-pdf:Create blank annotatable PDF": false
     }
   },
   "active": "f1038d49cdfea018",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Brainstorm.md",
+    "Brainstorm.md"
   ]
 }
